@@ -6,4 +6,5 @@ pandas
 psycopg2-binary
 
 Dataset: [S&P 500 Stocks — Kaggle](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks) put it in the project files folder
+
 !! Create a file containing your PostgreSQL password and edit the pwd path
